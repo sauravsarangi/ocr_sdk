@@ -1,0 +1,10 @@
+setup.py
+ocr_sdk/__init__.py
+ocr_sdk/core.py
+ocr_sdk/exceptions.py
+ocr_sdk/utils.py
+ocr_sdk.egg-info/PKG-INFO
+ocr_sdk.egg-info/SOURCES.txt
+ocr_sdk.egg-info/dependency_links.txt
+ocr_sdk.egg-info/requires.txt
+ocr_sdk.egg-info/top_level.txt
